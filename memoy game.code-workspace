@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/icon"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "memoy game"
+	}
+}
